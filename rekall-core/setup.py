@@ -3,7 +3,7 @@
 # Rekall
 # Copyright 2013 Google Inc. All Rights Reserved.
 # Modifications made by BedRock Systems, Inc. on
-# Jul 26 2019,
+# Jul 26 2019, Feb 03 2020, Feb 12 2020,
 # which modifications are (c) 2020 BedRock Systems, Inc.
 #
 # Authors:
@@ -65,8 +65,8 @@ install_requires = [
     'parsedatetime==2.4',
     "psutil >= 5.0, < 6.0",
     'pyaff4 ==0.26.post6',
-    'pycryptodome==3.6.6',
-    'pyelftools==0.24',
+    'pycryptodome==3.9.6',
+    'pyelftools==0.26',
     'pyparsing==2.1.5',
     'python-dateutil==2.6.1',
     'pytsk3==20170802',
